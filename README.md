@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and database
 - 📫 You can reach me by github or mail [me](mailto:work.zzp1993@gmail.com) or find @shiratori3 in telegram 
 
-- ✨ Also I'm writing my github [blog](https://shiratori3.github.io/) (Writed by my native language Chinese), sharing my experience in learning coding.
+- ✨ Also I'm writing my github [blog](https://shiratori3.github.io/) (Written by my native language Chinese), sharing my experience while learning coding.
 
 <!---
 shiratori3/shiratori3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
