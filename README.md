@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shiratori3, from Shanghai, China
-- 👀 I’m interested in anime and music
 - 🌱 I’m currently learning python and database
 - 📫 You can reach me by github or mail [me](mailto:work.zzp1993@gmail.com) or find @shiratori3 in telegram 
 
