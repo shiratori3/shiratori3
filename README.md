@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @shiratori3, from Shanghai, China
 - 🌱 I’m currently learning python and database
-- 📫 You can reach me by github or mail [me](mailto:work.zzp1993@gmail.com) or find @shiratori3 in telegram 
+- 📫 You can reach me by this ways:
+    - github
+    - mail to [me](mailto:work.zzp1993@gmail.com)
+    - find [@shiratori3](https://t.me/shiratori3) in telegram
+    - find [@shiratori3](https://stackoverflow.com/users/9281818/shiratori3) in stackoverflow
+
 
 - ✨ Also, I'm writing my github [blog](https://shiratori3.github.io/) (written by my native language Chinese), to share my experience while learning coding.
 
